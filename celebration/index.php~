@@ -1,0 +1,51 @@
+<? $title="arnoldkleingallery.com | Dedicated to promote and sell fine art, rare books, and handmade crafts. "; ?>
+<? include_once "../shared/ui/header.php"; ?>
+
+</head>
+
+<body>
+ 
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td width="80" valign="top" align="left">
+  </td>
+  <td width="500" align="left" valign="top">
+<br />
+<div id="intro">
+<h1 class="tagline" align="center"><!--p class="tagline"-->40th anniversary celebration of the Arnold Klein Gallery!<!--/p--></h1>
+<h2>Valentine's Day, 2011</h2>
+<p>
+The physical gallery closed its doors on Valentine's Day, 2011, after 40 years in business in Royal Oak, Michigan, but the Arnold Klein Gallery will continue its online operations!  
+<br />
+This event was covered by different online venues:
+<br /><br />
+<a href="http://www.candgnews.com/news/art-gallery-closing-after-40-years-business" onClick="return popup(this,'candgnews')">Royal Oak Review</a>
+<br /><br />
+<a href="./TheObserveEccentric_201101.pdf" onClick="return popup(this,'TheObserveEccentric')">The Observer &amp; Eccentric</a>
+<br />
+
+<h2>16-minute documentary film by Barrett Klein!:</h2>
+<p>
+<iframe src="http://player.vimeo.com/video/20230356" width="400" height="300" frameborder="0"></iframe><p><a href="http://vimeo.com/20230356">Arnold Klein Gallery - 40th anniversary</a> from <a href="http://vimeo.com/user4585235">Barrett Klein</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+</p>
+</div>
+
+  </td>
+  <!--td width="360" valign="top" align="center">
+     <br /><br /><br /><br /><br /><br />
+     <img src="./images/Whistlerians_small.jpg" width="360">
+     <br />
+     <font style="font-size:48%">Stanley Weintraub, Arnold Klein, Edward Stempel, Carl Barnes, Nesta Spink, Robert Getscher</font>
+     <br />
+<font style="font-size:60%">Whistler Conference, Oakland University, Rochester, MI (March 16th, 1985)</font>
+     <br /><br />
+     <img src="./images/butterfly.png" width="80">
+     <br /><br />
+     <img src="./images/Whistler_medallion.jpg" width="360">
+  </td-->
+ </tr>
+</table>
+<br />
+<br />
+
+<?php include_once("../shared/ui/footer.php"); ?>

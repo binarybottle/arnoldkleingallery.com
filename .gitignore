@@ -1,0 +1,8 @@
+.git
+images/
+thumbnails/
+error_log
+*.tar.gz
+thumbs/
+OLD/
+.dh-diag

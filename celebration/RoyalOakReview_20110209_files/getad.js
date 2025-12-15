@@ -1,0 +1,9 @@
+var strCreative=''
+ + '<script language="JavaScript" type="text/javascript">\n' 
+ + 'document.write(\'<script language="JavaScript" src="http://optimized-by.rubiconproject.com/a/dk.js?defaulting_ad=x3030ec.js&size_id=9&account_id=4275&site_id=4799&size=160x600" type="text/javascript"><\\/scr\' + \'ipt>\');\n' 
+ + '</script>\n' 
+;
+document.write(strCreative);var strCreative=''
+ + '<div style="display:none;width:0;height:0"><IFRAME SRC="http://pixel.quantserve.com/pixel/p-01-0VIaSjnOLg.gif?tags=CONTEXTWEB.HOBBIESGAMES.ARTSCRAFTS.DRAWINGSKETCHING,526735,,,SPIR1,160X600" HEIGHT="0" WIDTH="0" MARGINWIDTH="0" MARGINHEIGHT="0" ALLOWTRANSPARENCY="true" FRAMEBORDER="0" SCROLLING="NO"></IFRAME></div><div style="display:none;width:0;height:0"><scr'+'ipt>var _comscore = _comscore || [];_comscore.push({ c1: "8", c2: "2102", c3: "227", c4: "", c5: "", c15: "", c16: "SPIR1" });(function() {var s = document.createElement("scr'+'ipt"), el = document.getElementsByTagName("scr'+'ipt")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</scr'+'ipt><noscr'+'ipt><img src="http://b.scorecardresearch.com/p?c1=8&c2=2102&c3=227&c4=&c5=&c6=&c15=&c16=SPIR1&cv=2.0&cj=1" /></noscr'+'ipt></div><div style="display:none;width:0;height:0"><IFRAME SRC="http://aperture.displaymarketplace.com/audmeasure.gif?liveconclientID=3706557521217&CreativeID=&PlacementID=227&EventType=Impression&PixelID=100&rand=669735148&cuID=Ly3TfXfkqiFJ&eventGuid=jZsFYZnyFtoD"HEIGHT="0" WIDTH="0" MARGINWIDTH="0" MARGINHEIGHT="0" ALLOWTRANSPARENCY="true" FRAMEBORDER="0" SCROLLING="NO"></IFRAME></div>\n' 
+;
+document.write(strCreative);

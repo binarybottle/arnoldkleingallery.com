@@ -1,0 +1,17 @@
+/*
+	dflt_pfv_print.css  -  'print' style for default viewer page
+*/
+
+
+#buttonDiv, .rightPane, #loadingMaskDiv, #loadingMessageContent {
+	display:none;
+}
+
+.fd_print_ad {
+	display: block;
+}
+
+.fd_onscreen_ad {
+	display: none;
+}
+

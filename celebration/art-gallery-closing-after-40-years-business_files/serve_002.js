@@ -1,0 +1,1 @@
+document.write('\x3cdiv class=\"image-advertisement\" id=\"ad-10\"\x3e\x3ca href=\"http://www.candgnews.com/ad/redirect/10/t4?url=node/44106\"\x3e\x3cimg src=\"http://www.candgnews.com/sites/default/files/shop-ad.jpg\" alt=\"\" title=\"\" width=\"240\" height=\"90\" /\x3e\x3c/a\x3e\x3c/div\x3e');

@@ -1,0 +1,158 @@
+/*
+	dflt_pfv_screen.css  -  'screen' style for default viewer page
+*/
+
+
+
+body {
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	background-image:url(../images/shadow_r.png);
+	background-repeat:repeat-y;
+	background-position: right;
+}
+
+#scrollingContent {
+}
+
+.rightPane {
+	height: 100%;
+	width:310px;
+	margin-right: 5px;
+	padding-left: 6px;
+	text-align: center;
+	padding-top: 28px;
+	background-color: #f1f1f1;
+	position: absolute;
+	top: 36px;
+	right: 0;
+	z-index:88;
+	background-image:url(../images/shadow_l.png);
+	background-repeat:repeat-y;
+	background-position: left;
+		
+}
+
+.printContent {
+	overflow-x: hidden;
+	overflow-y: auto;
+	margin-top: 36px;
+	padding-top: 12px;
+	padding-left: 12px;
+	height: 720px;
+	width: 691px;
+	position: relative;
+}
+
+.fd_print_ad {
+	display: none;
+}
+
+.fd_onscreen_ad {
+	display: block;
+}
+
+#buttonDiv {
+	width:100%;
+	height:36px;
+	background-repeat:repeat-x;
+	background-image:url(../images/toolbar1.png);				
+	position: absolute;
+	z-index: 888;
+	top: 0;
+	left: 0;
+}
+
+.button {
+	height: 28px;
+	width: 78px;
+	display: -moz-inline-box;
+	display: inline-block;
+	margin-top: 2px;
+	margin-left: 12px;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.printButton{
+	background-image: url(../images/Print_up.png);
+}
+.printButtonOver{
+	background-image: url(../images/Print_over.png);
+}
+.printButtonDown{
+	background-image: url(../images/Print_over.png);
+}
+
+.pdfButton{
+	width: 114px;
+	background-image: url(../images/PDF_up.png);
+}
+.pdfButtonOver{
+	width: 114px;
+	background-image: url(../images/PDF_over.png);
+}
+.pdfButtonDown{
+	width: 114px;
+	background-image: url(../images/PDF_over.png);
+}
+
+.emailButton{
+	width: 138px;
+	background-image: url(../images/email_up.png);
+}
+.emailButtonOver{
+	width: 138px;
+	background-image: url(../images/email_over.png);
+}
+.emailButtonDown{
+	width: 138px;
+	background-image: url(../images/email_over.png);
+}
+
+
+
+#loadingMaskDiv {
+	z-index:999;
+	position: absolute;
+	top:0;
+	left:0;
+	-moz-opacity: 0.4;
+	opacity: .40;
+	filter: alpha(opacity=40);
+	background-color: #000000;
+	width: 100%;
+	height: 100%;
+	display:none;
+}
+
+#loadingMaskMessageDiv {
+	z-index:1000;
+	background-image:url(../images/messageBG.png);
+	width:316px;
+	height:162px;
+	position: absolute;
+	left:34%;
+	top:30%;
+	display:none;
+}
+
+#loadingMessageContent {
+	position:relative;
+	left:5px;
+	top:5px;
+	width:306px;
+	height:152px;
+}
+
+#messageText {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+
+
+

@@ -1,0 +1,2 @@
+{var dz=document;
+dz.writeln("<script src=\"http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=2080811&PluID=0&w=160&h=600&ord=20110108031019&ucm=true&ncu=$$http://media.fastclick.net/w/click.here?cid=238488;mid=510931;m=3;sid=50102;c=0;tp=7$$\"><\/script>");}
